@@ -1,0 +1,2 @@
+elements found from lookup in A : 1000
+elements found from lookup in B : 5
